@@ -135,9 +135,9 @@ Figures are saved in the [figures/](figures/) directory.
 
 ## Required Links
 
-> **GitHub repository:** `[INSERT GITHUB REPOSITORY LINK HERE]`
+> **GitHub repository:** [https://github.com/Mnour3593/ML-Midterm](https://github.com/Mnour3593/ML-Midterm)
 
-> **Unlisted YouTube walkthrough:** `[INSERT UNLISTED YOUTUBE VIDEO LINK HERE]`
+> **Unlisted YouTube walkthrough:** [https://youtu.be/mHdRzwNX7nw](https://youtu.be/mHdRzwNX7nw)
 
 ## Academic Integrity and AI Disclosure
 
